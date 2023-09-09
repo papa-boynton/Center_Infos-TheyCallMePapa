@@ -13,7 +13,7 @@
 
 MyAppID=Center_Infos-TheyCallMePapa
 MyAppName=Center Infos
-MyAppAuthor=TheyCallMePapa
+MyAppAuthor=TheyCallMePapa & Bunz
 MyVariablesLoc=#SKINSPATH#Droptop Community Apps\Apps\Center_Infos-TheyCallMePapa\Variables\Variables.inc
 
 ; -------------------------------------------------------------------------------
