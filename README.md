@@ -20,10 +20,10 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> ƒ?½
-  <a href="#how-to-use">How To Use</a> ƒ?½
-  <a href="#download">Download</a> ƒ?½
-  <a href="#credits">Credits</a> ƒ?½
+  <a href="#key-features">Key Features</a> â€¢
+  <a href="#how-to-use">How To Use</a> â€¢
+  <a href="#download">Download</a> â€¢
+  <a href="#credits">Credits</a> â€¢
   <a href="#license">License</a>
 </p>
 
