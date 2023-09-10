@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Small description of your app.</h4>
+<h4 align="center">This app will center time, song title or current app.</h4>
 
 <p align="center">
   <a href="https://droptopfour.com/community-apps">
@@ -30,11 +30,16 @@
 ![screenshot](Images/Screenshot.png)
 
 ## Key Features
+Can center the time, an app name or song title.  Can be turned off.  Time does not have to be configured to be in center by Droptop.
 
 ## How to use
+Install and activate the app.  Right click to choose what to center.  Left click to turn on/off the app.
 
 ## Download
+https://github.com/papa-boynton/Center-Infos/releases/latest
 
 ## Credits
+Written by TheyCallMePapa in collaboration with Bunz
 
 ## License
+Creative Commons Attribution-Non-Commercial-Share Alike 3.0
