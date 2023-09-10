@@ -19,7 +19,7 @@ MyVariablesLoc=#SKINSPATH#Droptop Community Apps\Apps\Center_Infos-TheyCallMePap
 ; -------------------------------------------------------------------------------
 ; Add your variables below: 
 ; -------------------------------------------------------------------------------
-CenterMeOFF=1
+CenterMeOFF=0
 
-CenterNum=2
-CenterName=Song
+CenterNum=3
+CenterName=App Name
