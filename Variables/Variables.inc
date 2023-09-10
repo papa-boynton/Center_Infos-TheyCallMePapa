@@ -21,5 +21,5 @@ MyVariablesLoc=#SKINSPATH#Droptop Community Apps\Apps\Center_Infos-TheyCallMePap
 ; -------------------------------------------------------------------------------
 CenterMeOFF=0
 
-CenterNum=3
-CenterName=App Name
+CenterNum=1
+CenterName=Time
