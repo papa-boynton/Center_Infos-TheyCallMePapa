@@ -39,7 +39,7 @@ Install and activate the app.  Right click to choose what to center.  Left click
 https://github.com/papa-boynton/Center-Infos/releases/latest
 
 ## Credits
-Written by TheyCallMePapa in collaboration with Bunz
+Written by [TheyCallMePapa](https://github.com/papa-boynton) in collaboration with [Bunz](https://github.com/66Bunz)
 
 ## License
 Creative Commons Attribution-Non-Commercial-Share Alike 3.0
