@@ -13,7 +13,7 @@
 
 MyAppID=Center_Infos-TheyCallMePapa
 MyAppName=Center Infos
-MyAppAuthor=TheyCallMePapa and Bunz
+MyAppAuthor=TheyCallMePapa
 MyVariablesLoc=#SKINSPATH#Droptop Community Apps\Apps\Center_Infos-TheyCallMePapa\Variables\Variables.inc
 
 ; -------------------------------------------------------------------------------
@@ -21,5 +21,7 @@ MyVariablesLoc=#SKINSPATH#Droptop Community Apps\Apps\Center_Infos-TheyCallMePap
 ; -------------------------------------------------------------------------------
 CenterMeOFF=0
 
-CenterNum=3
-CenterName=App Name
+CenterNum=1
+
+ShowHideCenterInfosApp=0
+MyAppGUID=c36164b3-01b3-419e-b893-d21b6016c7df
