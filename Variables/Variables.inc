@@ -19,15 +19,9 @@ MyVariablesLoc=#SKINSPATH#Droptop Community Apps\Apps\Center_Infos-TheyCallMePap
 ; -------------------------------------------------------------------------------
 ; Add your variables below: 
 ; -------------------------------------------------------------------------------
-<<<<<<< HEAD
 CenterMeOFF=0
 
-CenterNum=2
-=======
-CenterMeOFF=1
-
 CenterNum=1
->>>>>>> 8327eacbe787878269ca58985512c4586956ae91
 
 ShowHideCenterInfosApp=0
 MyAppGUID=c36164b3-01b3-419e-b893-d21b6016c7df
